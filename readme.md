@@ -1,6 +1,4 @@
-# Vite + React + Tailwind + Redux Toolkit
-
-![Vite + React + Tailwind + Redux Toolkit](/screenshot.png)
+# Vite + React + Tailwind 
 
 ## Installation
 
