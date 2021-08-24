@@ -3,7 +3,7 @@
 ## Installation
 
 ```shell
-npx degit jamosaur/vite-react-tailwind-rtk my-awesome-project
+npx degit shubham-ghuge/vite-react-tailwind my-awesome-project
 cd my-awesome-project
 npm install
 ```
